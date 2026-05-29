@@ -1,0 +1,1 @@
+Reflexion:Es importante porque herramientas como Git nos permiten llevar un control de quien modifico,que y cuando dentro del proyecto,ademas esto nos facilita la correcion de errores,volver a versiones anteriores si algo nos falla y un punto clave es que podemos trabajar en quipo sin sobrescribir el trabajo de los demas.
