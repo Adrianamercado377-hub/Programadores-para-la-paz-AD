@@ -1,3 +1,0 @@
-Repositorio:Es la carpeta donde se guarda todo el historial de los proyectos,ahi Git registra cada cambio que se hace, quien lo hizo y cuando, este guarda todas las versiones de los archivos.
-Commit:Un commit es el punto de gurdado dentro del repositorio,cuando se hace commit Git tomaa una foto del estado actual de tus archivos y la guarda con un mensaje lo que permite volver atras a culquier version anterior si algo sale mal.
-Push:Es el comando que se usa para subir los commit de la computadora a GitHub.Sirve para guardar nuestros trabajos en la nube y compartirlo con otras personas, sin el push, nuestros cambios solo quedan en pc y no se sincronizan con el repositorio remoto
