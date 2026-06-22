@@ -1,0 +1,1 @@
+{"mensaje":"Incidencia registrada","tipo":"Iluminacion publica","descripcion":"3 postes no encienden"}

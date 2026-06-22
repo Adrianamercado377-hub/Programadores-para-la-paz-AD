@@ -1,0 +1,11 @@
+Es importante que las plataformas reciban reportes ciudadanos de forma estructurada porque así la información se puede
+procesar automáticamente sin perder tiempo leyendo texto libre. Cuando los datos llegan en campos definidos como tipo y 
+descripción, el sistema los clasifica y los envía al área responsable en segundos. Esto permite agrupar los reportes
+por zona o problema y detectar patrones que no se ven a simple vista. Con datos organizados se generan estadísticas
+reales que sirven para tomar decisiones y pedir recursos con evidencia. Además se evita que detalles clave se pierdan
+o se malinterpreten en mensajes largos y confusos. La estructura también facilita dar seguimiento a cada caso y mostrarle 
+al ciudadano el estado de su solicitud. 
+Si toda la información llega igual, se pueden conectar los reportes a mapas y tableros públicos sin trabajo manual extra.
+Esto reduce errores humanos Es importante que las plataformas reciban reportes ciudadanos de forma estructurada porque 
+así la información se puede procesar automáticamente sin perder tiempo leyendo texto libre. Cuando los datos llegan en campos
+definidos como tipo y descripción, el sistema los clasifica y los envía al área responsable en segundos. 
