@@ -1,0 +1,7 @@
+Puess es importante que las plataformas tecnológicas funcionen de manera estable y segura porque las comunidades dependen de ellas para comunicarse
+y gestionar información.
+Si un servidor falla constantemente, se pierde confianza y se interrumpe el acceso a servicios básicos. La seguridad evita que datos personales
+sean expuestos o manipulados, la seguridad es igual de importante.Un servidor estable garantiza que la información esté disponible cuando se necesite. 
+Además, permite que más personas participen sin temor a perder su trabajo o datos.Mantener logs y monitorear 
+errores ayuda a detectar problemas antes de que afecten a los usuarios. Por eso, invertir en un buen entorno servidor es invertir en la confianza,
+al igual de mantener el servicio activo, en comunidades que dependen de estas herrmientas para organizarse, estudiar o comunicarse.
