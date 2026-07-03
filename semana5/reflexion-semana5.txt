@@ -1,0 +1,6 @@
+Las APIs organizan la información porque todos envían datos con el mismo formato, 
+Una comunidad puede usar una ruta POST /reporte. 
+para que los vecinos envíen alertas 
+de problemas del barrio. Todo queda guardado en un servidor y los líderes pueden 
+consultar, clasificar y atender cada caso sin que se pierda en chats. 
+Así la comunicación es más rápida y transparente.

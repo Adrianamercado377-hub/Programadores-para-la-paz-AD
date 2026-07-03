@@ -1,0 +1,10 @@
+Prueba de rutas en http://localhost:3000
+
+1. Ruta: http://localhost:3000 
+   Resultado: Muestra "Servidor activo". Es la ruta raíz.
+
+2. Ruta: http://localhost:3000/saludo
+   Resultado: Muestra "Hola comunidad". Es una ruta GET fija.
+
+3. Ruta: http://localhost:3000/mensaje/Adriana
+   Resultado: Muestra "Hola Adriana". Es una ruta GET con parámetro.

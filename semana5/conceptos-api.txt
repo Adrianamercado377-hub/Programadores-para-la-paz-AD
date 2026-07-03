@@ -1,0 +1,8 @@
+Ruta POST /reporte
+
+1. Qué hace esta ruta:
+   Recibe un JSON con un "mensaje" en el body y responde con un JSON de confirmación.
+
+2. Para qué serviría en una aplicación comunitaria:
+   Para que los vecinos envíen reportes o alertas de forma organizada, 
+   como daños en alumbrado o fugas de agua, para que la alcaldía los atienda.
