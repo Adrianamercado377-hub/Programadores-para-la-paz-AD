@@ -1,0 +1,13 @@
+FLUJO DE AUTOMATIZACION CON n8n Y TELEGRAM
+
+Evento que activa el flujo: 
+Se registra un nuevo reporte de incidencia en la plataforma.
+
+Accion:
+n8n detecta el nuevo registro y envia un mensaje a un grupo de Telegram.
+
+Mensaje que se enviaria a Telegram:
+'Nuevo reporte recibido en Clemencia. Tipo: Bache. Prioridad: Alta. Revisar en el dashboard.'
+
+Informacion que NO debe enviarse por seguridad:
+Nombres completos, numeros de cedula, direcciones exactas, telefonos, correos, o cualquier dato personal del ciudadano que reporta.

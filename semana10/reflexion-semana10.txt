@@ -1,0 +1,8 @@
+Puess las metodologias agiles como Scrum nos ayudan a organizar mejor una comunidad ya que  permiten dividir el trabajo en tareas pequeñas y priorizar lo mas urgente.
+La automatizacion con herramientas como n8n ahorra tiempo al evitar hacer tareas repetitivas de forma manual.
+Usar canales como Telegram facilita la comunicacion rapida entre el equipo y los ciudadanos.
+Con Telegram se pueden enviar alertas inmediatas cuando ocurre algo importante en la comunidad.
+Esto hace que los procesos de participacion ciudadana sean mas transparentes y agiles.
+En vez de esperar reuniones, la informacion fluye en tiempo real.
+Combinar agilidad, automatizacion y comunicacion directa permite que una comunidad responda mas rapido a sus problemas.
+Y al final, podemos lograr que las personas se sientan escuchadas y que las soluciones lleguen mas rapido.

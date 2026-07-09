@@ -1,0 +1,13 @@
+ITERACION SIMPLE
+
+1. Que 2 tareas del backlog haria primero:
+   - Tarea 1: Registrar incidencia con foto.
+   - Tarea 2: Enviar alerta a Telegram al coordinador.
+
+2. Por que son las mas importantes:
+   Porque son el flujo base del sistema. Sin poder reportar y sin notificar, la plataforma no sirve.
+
+3. Que significa para mi que una tarea este terminada - Definicion de Terminado:
+   - Funciona y pasa las pruebas basicas.
+   - Fue probada por al menos 1 persona del equipo.
+   - El codigo quedo registrado y subido en Git.
