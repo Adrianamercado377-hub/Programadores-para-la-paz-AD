@@ -1,0 +1,7 @@
+Una plataforma de participacion ciudadana necesita base de datos para guardar las causas y apoyos de forma organizada,
+la autenticacion de usuarios es necesaria para saber quien participa y evitar cuentas falsas.
+
+La proteccion de informacion es clave porque se manejan datos de ciudadanos,
+sin seguridad se pueden filtrar datos personales o manipular los apoyos.
+En resumen, la base de datos da orden, la autenticacion da confianza y la proteccion da seguridad,
+sin estos 3 elementos la plataforma no seria confiable para la comunidad.

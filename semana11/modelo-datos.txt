@@ -1,0 +1,16 @@
+"MODELO DE DATOS
+
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+- apoyos
+Proposito: Guardar las causas comunitarias para darles visibilidad.
+
+Entidad: Usuario
+- id
+- nombre
+- correo
+- rol
+Proposito: Identificar quién crea y apoya cada causa.
