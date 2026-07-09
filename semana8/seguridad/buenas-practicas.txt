@@ -1,0 +1,3 @@
+echo "1. Activar el bloqueo de pantalla y cerrar sesion al terminar." > buenas-practicas.txt
+echo "2. Evitar conectarse a redes WiFi publicas sin usar una VPN." >> buenas-practicas.txt
+echo "3. Hacer copias de seguridad de la informacion importante." >> buenas-practicas.txt

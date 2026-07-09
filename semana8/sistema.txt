@@ -1,0 +1,10 @@
+echo "INFORMACION DEL SISTEMA
+
+1. ¿Que informacion muestra cada comando?
+   uname -a: Muestra informacion del sistema operativo, kernel, fecha y arquitectura del equipo.
+   whoami: Muestra el nombre del usuario que esta actualmente logueado en el sistema.
+
+2. ¿Por que es util conocer informacion del sistema al administrar un servidor?
+   Es util para saber con que version del sistema estamos trabajando, detectar problemas de compatibilidad,
+   saber que recursos tenemos, identificar al usuario con permisos, y poder dar soporte tecnico o aplicar
+   actualizaciones de seguridad correctas segun el sistema." > sistema.txt

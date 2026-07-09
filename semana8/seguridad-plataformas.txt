@@ -1,0 +1,7 @@
+echo "PRACTICAS DE SEGURIDAD PARA PLATAFORMAS COMUNITARIAS”
+
+1. No exponer datos personales de los usuarios en lugares publicos de la plataforma.
+2. Proteger las credenciales usando contraseñas seguras y autenticacion de dos factores.
+3. Usar conexiones seguras HTTPS para cifrar la informacion que viaja entre el usuario y el servidor.
+4. Registrar los accesos y actividades para detectar comportamientos sospechosos.
+5. Limitar el acceso a informacion sensible solo a usuarios con permisos y roles especificos.> seguridad-plataformas.txt

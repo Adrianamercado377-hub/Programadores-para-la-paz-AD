@@ -1,0 +1,9 @@
+echo (IMPORTANCIA DE LA SEGURIDAD DIGITAL)
+
+La seguridad digital es fundamental para proteger las plataformas que usan comunidades porque en ellas se maneja
+informacion personal y sensible de muchas personas. Si una plataforma no es segura, los datos pueden ser robados,
+modificados o usados para suplantar identidades. Esto genera desconfianza y las personas dejan de participar.
+Ademas, un ataque puede tumbar la plataforma y detener procesos participativos importantes como votaciones o denuncias.
+Proteger la plataforma garantiza que la comunicacion sea transparente, que la informacion no se altere y que todos
+puedan participar con tranquilidad. La seguridad digital cuida la privacidad, la integridad de los datos y la
+continuidad del trabajo comunitario. Por eso debe ser una prioridad desde el diseño de cualquier herramienta digital.> reflexion-semana8.txt
