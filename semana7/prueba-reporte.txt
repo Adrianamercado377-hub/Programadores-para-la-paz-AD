@@ -1,0 +1,12 @@
+Al consultar la ruta GET http://localhost:3000/reportes, el servidor responde con una lista en formato JSON que contiene todos los reportes registrados.
+
+En la prueba se registró un reporte con tipo "Infraestructura" y descripcion "Daño en alumbrado". 
+
+La respuesta del servidor fue:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado"
+  }
+]
