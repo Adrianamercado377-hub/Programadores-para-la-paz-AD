@@ -1,7 +1,0 @@
-La interfaz tendria una seccion para crear un nuevo reporte ciudadano con titulo, descripcion, foto y ubicacion.
-
-Tambien tendria una lista de reportes disponibles para que los usuarios puedan verlos y hacer seguimiento.
-
-Cada reporte tendria un boton de 'Apoyar reporte' y un contador que muestre cuantas personas lo han apoyado.
-
-La interfaz debe ser clara, sencilla y no debe mostrar informacion privada de los usuarios que reportan.
