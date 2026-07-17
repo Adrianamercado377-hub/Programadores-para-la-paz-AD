@@ -1,0 +1,3 @@
+Evento: Cuando una nueva causa recibe 100 apoyos
+Mensaje: "Alerta: La causa '[titulo de la causa]' ha alcanzado 100 apoyos. Ya se puede generar la petición formal."
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correos electrónicos de los firmantes, comentarios personales. Solo se envía el título de la causa y el número de apoyos.

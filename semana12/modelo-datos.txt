@@ -1,0 +1,15 @@
+Causa
+id
+titulo
+descripcion
+fecha
+
+Apoyo
+id
+causa_id
+nombre
+fecha
+
+Explicación:
+La entidad Causa sirve para guardar la información de cada petición que se crea en la plataforma.
+La entidad Apoyo sirve para registrar las personas que apoyan cada causa y relacionarlas con su id.

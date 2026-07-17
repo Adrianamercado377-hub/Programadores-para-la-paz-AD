@@ -1,0 +1,8 @@
+Durante el curso aprendí que la tecnología puede ser una herramienta clave para fortalecer la participación ciudadana, 
+Entendí que plataformas como "Petición en 3 Clics" permiten que las comunidades se organicen de forma más rápida y transparente.
+Aprendí la importancia de minimizar los datos personales para proteger la privacidad de las personas que participan,
+También comprendí cómo conectar un backend con una base de datos para almacenar información de forma ordenada.
+La generación automática de documentos PDF facilita presentar las peticiones de manera formal ante las instituciones
+El uso de herramientas de automatización como n8n o Telegram ayuda a mantener informada a la comunidad sin trabajo manual,
+En conclusión, la tecnología bien usada acerca a los ciudadanos con sus gobernantes y fortalece la democracia.,
+Con este curso entendí que todos podemos crear soluciones simples que generen un impacto social real.
